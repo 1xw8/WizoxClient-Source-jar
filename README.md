@@ -60,7 +60,7 @@ This release represents the final state of the project after leaving the scene. 
 
 ## ⭐ Credits
 
-Created by **[Your Name]**
+Created by **Pedros Dad**
 
 Thanks to everyone who was part of the journey.
 
